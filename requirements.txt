@@ -1,0 +1,12 @@
+opencv-python-headless
+numpy
+scipy
+matplotlib
+pandas
+plyfile
+open3d
+opencv-python
+opencv-contrib-python
+scikit-build
+pcl-py
+
