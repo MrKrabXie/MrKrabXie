@@ -8,5 +8,4 @@ open3d
 opencv-python
 opencv-contrib-python
 scikit-build
-pcl-py
 
